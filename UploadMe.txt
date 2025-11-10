@@ -1,1 +1,1 @@
-Ready to upload to Git
+Ready to upload to Github
